@@ -1,0 +1,152 @@
+[
+  {
+    "_id": "573a1390f29313caabcd4135",
+    "title": "The Godfather",
+    "year": 1972,
+    "genres": ["Crime", "Drama"],
+    "cast": [
+      { "name": "Marlon Brando", "role": "Don Vito Corleone" },
+      { "name": "Al Pacino", "role": "Michael Corleone" },
+      { "name": "James Caan", "role": "Sonny Corleone" }
+    ],
+    "rating": {
+      "average": 9.2,
+      "reviews": 1000
+    }
+  },
+  {
+    "_id": "573a1390f29313caabcd42e8",
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genres": ["Action", "Crime", "Drama"],
+    "cast": [
+      { "name": "Christian Bale", "role": "Bruce Wayne / Batman" },
+      { "name": "Heath Ledger", "role": "Joker" },
+      { "name": "Aaron Eckhart", "role": "Harvey Dent" }
+    ],
+    "rating": {
+      "average": 9.0,
+      "reviews": 1500
+    }
+  },
+  {
+    "_id": "573a1390f29313caabcd4136",
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "genres": ["Crime", "Drama"],
+    "cast": [
+      { "name": "John Travolta", "role": "Vincent Vega" },
+      { "name": "Samuel L. Jackson", "role": "Jules Winnfield" },
+      { "name": "Uma Thurman", "role": "Mia Wallace" }
+    ],
+    "rating": {
+      "average": 8.9,
+      "reviews": 1100
+    }
+  },
+  {
+    "_id": "573a1390f29313caabcd42e9",
+    "title": "Inception",
+    "year": 2010,
+    "genres": ["Action", "Sci-Fi", "Thriller"],
+    "cast": [
+      { "name": "Leonardo DiCaprio", "role": "Dom Cobb" },
+      { "name": "Joseph Gordon-Levitt", "role": "Arthur" },
+      { "name": "Ellen Page", "role": "Ariadne" }
+    ],
+    "rating": {
+      "average": 8.8,
+      "reviews": 1300
+    }
+  },
+  {
+    "_id": "573a1391f29313caabcd4150",
+    "title": "Fight Club",
+    "year": 1999,
+    "genres": ["Drama"],
+    "cast": [
+      { "name": "Brad Pitt", "role": "Tyler Durden" },
+      { "name": "Edward Norton", "role": "The Narrator" },
+      { "name": "Helena Bonham Carter", "role": "Marla Singer" }
+    ],
+    "rating": {
+      "average": 8.8,
+      "reviews": 1400
+    }
+  },
+  {
+    "_id": "573a1391f29313caabcd4160",
+    "title": "The Matrix",
+    "year": 1999,
+    "genres": ["Action", "Sci-Fi"],
+    "cast": [
+      { "name": "Keanu Reeves", "role": "Neo" },
+      { "name": "Laurence Fishburne", "role": "Morpheus" },
+      { "name": "Carrie-Anne Moss", "role": "Trinity" }
+    ],
+    "rating": {
+      "average": 8.7,
+      "reviews": 1200
+    }
+  },
+  {
+    "_id": "573a1391f29313caabcd4170",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "genres": ["Action", "Adventure", "Drama"],
+    "cast": [
+      { "name": "Elijah Wood", "role": "Frodo Baggins" },
+      { "name": "Ian McKellen", "role": "Gandalf" },
+      { "name": "Orlando Bloom", "role": "Legolas" }
+    ],
+    "rating": {
+      "average": 8.8,
+      "reviews": 1500
+    }
+  },
+  {
+    "_id": "573a1391f29313caabcd4180",
+    "title": "Forrest Gump",
+    "year": 1994,
+    "genres": ["Drama", "Romance"],
+    "cast": [
+      { "name": "Tom Hanks", "role": "Forrest Gump" },
+      { "name": "Robin Wright", "role": "Jenny Curran" },
+      { "name": "Gary Sinise", "role": "Lieutenant Dan Taylor" }
+    ],
+    "rating": {
+      "average": 8.8,
+      "reviews": 1600
+    }
+  },
+  {
+    "_id": "573a1391f29313caabcd4190",
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "genres": ["Drama"],
+    "cast": [
+      { "name": "Tim Robbins", "role": "Andy Dufresne" },
+      { "name": "Morgan Freeman", "role": "Ellis Boyd 'Red' Redding" },
+      { "name": "Bob Gunton", "role": "Warden Norton" }
+    ],
+    "rating": {
+      "average": 9.3,
+      "reviews": 2000
+    }
+  },
+  {
+    "_id": "573a1391f29313caabcd4200",
+    "title": "Gladiator",
+    "year": 2000,
+    "genres": ["Action", "Adventure", "Drama"],
+    "cast": [
+      { "name": "Russell Crowe", "role": "Maximus" },
+      { "name": "Joaquin Phoenix", "role": "Commodus" },
+      { "name": "Connie Nielsen", "role": "Lucilla" }
+    ],
+    "rating": {
+      "average": 8.5,
+      "reviews": 1400
+    }
+  }
+]
